@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Harmonogram wywozu śmieci</string>
+
+    <string name="common_district">District</string>
+    <string name="common_street">Street</string>
+    <string name="common_bio">Bio</string>
+    <string name="common_plastic">Plastic</string>
+    <string name="common_paper">Paper</string>
+    <string name="common_glass">Glass</string>
+    <string name="common_mix">Mix</string>
+
+    <string name="district_header">Districts:</string>
+    <string name="schedules_header">Schedules %s:</string>
+</resources>

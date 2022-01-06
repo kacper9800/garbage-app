@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809600449820",
+    "firebase_url": "https://grabage-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "grabage-app",
+    "storage_bucket": "grabage-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809600449820:android:48b98441bc329e4963ced9",
+        "android_client_info": {
+          "package_name": "com.garbage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809600449820-gih7jm3k065ppbkuuqt270na6hgmh5ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEYjTt0TR_JPYDiU-D0jUe8DCeRQ7medg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809600449820-gih7jm3k065ppbkuuqt270na6hgmh5ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
